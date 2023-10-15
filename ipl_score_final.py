@@ -2,9 +2,6 @@ import joblib
 import pickle
 import numpy as np
 import pandas as pd
-import seaborn as sns
-import sklearn
-from datetime import datetime
 from sklearn.linear_model import Ridge
 from sklearn.preprocessing import StandardScaler,MinMaxScaler
 from sklearn.model_selection import RandomizedSearchCV
