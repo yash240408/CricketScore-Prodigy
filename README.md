@@ -27,7 +27,7 @@
 - [Local Implementation](#-Local-Implementation-)
 - [Technologies Used📫](#-Technologies-Used-)
 - [Features](#Features)
-- [Whisperer in Action](#Screenshots-and-Video)
+- [Whisperer in Action](#Video)
 - [Made By](#Builders)
 
 
@@ -77,17 +77,9 @@ python app.py
 - Accurate Predictions: Leveraging publicly available IPL datasets, the project provides highly accurate predictions for the performance of IPL teams.
 
 
-## `Screenshots and Video`
-Home page
-![](./img/Homepage.png)
-Register page
-![](./img/Registerpg.png)
-Hospital page
-![](./img/Hospitalpg.png)
-Patient Page
-![](./img/Patientpage.png)
-Uploading Document
-![](./img/upDoc.png)
+## `Video`
+
+[see the video](https://www.youtube.com/watch?v=XR8WOQ05pVg)
 
 
 
